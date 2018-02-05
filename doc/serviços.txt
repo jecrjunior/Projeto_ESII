@@ -1,0 +1,51 @@
+Guia Serviços
+
+REST Over http
+
+SERVICE: Guia
+PUT /guia
+GET /guia/?id=x
+POST /guia
+DELETE /guia/?id=x
+
+SERVICE: Item_Guia
+PUT /item_guia
+GET /item_guia/?id=x
+POST /item_guia
+DELETE /item_guia/?id=x
+
+SERVICE: Usuario_Formacao
+PUT /usuario_formacao
+GET /usuario_formacao/?id=x
+POST /usuario_formacao
+DELETE /usuario_formacao/?id=x
+
+SERVICE: Usuario_Vinculo
+PUT /usuario_vinculo
+GET /usuario_vinculo/?id=x
+POST /usuario_vinculo
+DELETE /usuario_vinculo/?id=x
+
+SERVICE: Usuario_Tipo
+PUT /usuario_tipo
+GET /usuario_tipo/?id=x
+POST /usuario_tipo
+DELETE /usuario_tipo/?id=x
+
+SERVICE: Usuario_Setor
+PUT /usuario_setor
+GET /usuario_setor/?id=x
+POST /usuario_setor
+DELETE /usuario_setor/?id=x
+
+SERVICE: Usuario_Experiencia
+PUT /usuario_experiencia
+GET /usuario_experiencia/?id=x
+POST /usuario_experiencia
+DELETE /usuario_experiencia/?id=x
+
+SERVICE: Usuario
+PUT /usuario
+GET /usuario/?id=x
+POST /usuario
+DELETE /usuario/?id=x
